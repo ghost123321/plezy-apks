@@ -10,7 +10,7 @@ Standalone `.apk` files automatically extracted from [edde746/plezy](https://git
 2. Tap **Add App**
 3. Paste this URL:
    ```
-   https://github.com/derFrisson/plezy-apks
+   https://github.com/ghost123321/plezy-apks
    ```
 4. Set **APK filter regex** to match your device:
    - `arm64-v8a` — most modern phones *(recommended)*
