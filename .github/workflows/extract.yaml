@@ -3,7 +3,7 @@ name: Extract Plezy APKs
 on:
   schedule:
     
-   - cron: "0 */3 * * *" 
+   - cron: "0 */1 * * *" 
   workflow_dispatch: # Allow manual trigger
 
 permissions:
